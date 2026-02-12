@@ -23,12 +23,3 @@ Welcome to my GitHub profile! I'm a passionate Web Developer specializing in bui
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 
-
-figma
-
-
-
----
-
-✨ **Fun Fact:** I believe in continuous learning and building projects that challenge me to grow every day!
-
