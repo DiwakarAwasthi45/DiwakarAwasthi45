@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Diwakar Awasthi
 
-<!--
-**DiwakarAwasthi45/DiwakarAwasthi45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Web Developer specializing in building modern, responsive, and user-friendly web applications. I love turning ideas into code and exploring the latest technologies in the web development world.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I enjoy creating web applications using **HTML, CSS, JavaScript, React, Next**
+- 🌱 Always learning and experimenting with new tools, frameworks, and best practices.
+- 🚀 I focus on writing clean, efficient, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify, Heroku  
+- **Other:** Responsive Design, Problem Solving, UI/UX basics
+
+## Connect with Me
+- Email: awasthid384@gmail.com
+- 🌐 LinkedIn:linkedin.com/Diwakar Awasthi
+- Instagram: instagram.com/diwakar_45
+- Facebook: facebook.com/ Diwakar Awasthi
+
+---
+
+✨ **Fun Fact:** I believe in continuous learning and building projects that challenge me to grow every day!
+
