@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate Web Developer specializing in bui
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Netlify, Heroku  
-- **Other:** Responsive Design, Problem Solving, UI/UX basics
+- **Tools & Platforms:** Git, GitHub, VS Code,  
+- **Other:** Responsive Design, Problem Solving, UI/UX basics,
 
 ## Connect with Me
 - Email: awasthid384@gmail.com
