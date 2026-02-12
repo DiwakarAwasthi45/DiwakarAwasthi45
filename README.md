@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer specializing in bui
 
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript, React,Next, Tailwind CSS, Bootstrap  
 - **Tools & Platforms:** Git, GitHub, VS Code,  
 - **Other:** Responsive Design, Problem Solving, UI/UX basics,
 
