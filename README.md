@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer specializing in bui
 
 ## Connect with Me
 - Email: awasthid384@gmail.com
-- 🌐 LinkedIn:linkedin.com/Diwakar Awasthi
+-  LinkedIn:linkedin.com/Diwakar Awasthi
 - Instagram: instagram.com/diwakar_45
 - Facebook: facebook.com/ Diwakar Awasthi
 
