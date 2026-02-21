@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Diwakar Awasthi
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm a passionate Web Developer specializing in building modern, responsive, and user-friendly web applications. I love turning ideas into code and exploring the latest technologies in the web development world.
 
